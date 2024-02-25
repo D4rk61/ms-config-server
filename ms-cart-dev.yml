@@ -27,23 +27,6 @@ spring:
         '[event.merge.entity_copy_observer]': allow
     show-sql: true
 
-springdoc:
-  title: "Cart Api for microservices"
-  description: "Construccion de un microservicio (producto) para una Arq. en Spring Cloud"
-  version: "v1.0.0"
-  contact-name: "Jose Reynoso"
-  contact-email: "reynosojose2005@gmail.com"
-  contact-url: "https://github.com/D4rk61"
-
-  api-docs:
-    path: /api-docs
-  #  packages-to-scan:
-  #  - com.codearti.application.rest
-  #  paths-to-match:
-  #  - /v1
-  swagger-ui:
-    path: /swagger-ui.html
-#    operations-sorter: alpha
 
 management:
   endpoints:

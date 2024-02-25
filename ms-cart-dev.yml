@@ -29,7 +29,7 @@ spring:
 
 springdoc:
   title: "Cart Api for microservices"
-  description: "Construccion de un microservicio para una Arq. en Spring Cloud"
+  description: "Construccion de un microservicio (producto) para una Arq. en Spring Cloud"
   version: "v1.0.0"
   contact-name: "Jose Reynoso"
   contact-email: "reynosojose2005@gmail.com"

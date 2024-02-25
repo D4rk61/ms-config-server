@@ -57,6 +57,5 @@ management:
 eureka:
   client:
     enabled: true
-
   instance:
-    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
